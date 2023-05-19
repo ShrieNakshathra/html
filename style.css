@@ -1,0 +1,41 @@
+body{
+    background-color: #757c7c;
+     background-image:url(https://static.vecteezy.com/system/resources/previews/006/852/804/original/abstract-blue-background-simple-design-for-your-website-free-vector.jpg) ;
+     background-size: cover;
+     
+} 
+
+.border-dashed { --bs-border-style: dashed; }
+.my-5 {
+    margin-top: 2rem!important;
+    margin-bottom: 2rem!important;
+}
+.p-5 {
+    padding: 6rem!important;
+	background-color: rgb(159, 159, 250);
+
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(159, 159, 250);
+}
+
+
+
+.form-control-dark {
+    border-color: var(--bs-gray);
+  }
+  .form-control-dark:focus {
+    border-color: #000000;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+  }
+  
+  .text-small {
+    font-size: 85%;
+  }
+  
+  .dropdown-toggle:not(:focus) {
+    outline: 0;
+  }
+  
+  
